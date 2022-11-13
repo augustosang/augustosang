@@ -18,7 +18,9 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-### Sobre mim
-
-
-
+### Um pouco obre mim:
+Amante da tecnologia desde cedo, conheci a programação aos 16 anos. <br/>
+Hoje tenho 17 anos  e estudo desenvolvimento front-end onde espero me desenvolver até <br/>
+me tormar um fullstack. Espero que meu perfil seja útil e produtivo dentro da comunidade, <br/>
+compartihando meus projetos e colaborando nos projetos de outras pessoas! <br/>
+Se divirtam, compartilheme e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
