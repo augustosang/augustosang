@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Augusto! 👋
+<h1>Olá, tudo bem? Eu sou o Augusto! 👋</h1>
 
 
 ### -Onde me encontar:
@@ -18,7 +18,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-### Um pouco obre mim:
+### 👨🏻‍💻Um pouco obre mim:
 Amante da tecnologia desde cedo, conheci a programação aos 16 anos. <br/>
 Hoje tenho 17 anos  e estudo desenvolvimento front-end onde espero me desenvolver até <br/>
 me tormar um fullstack. Espero que meu perfil seja útil e produtivo dentro da comunidade, <br/>
