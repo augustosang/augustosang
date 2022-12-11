@@ -1,7 +1,7 @@
 <h1>Olá, tudo bem? Eu sou o Augusto! 👋</h1>
 
 
-### -Onde me encontar:
+### - Onde me encontar:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoosantana_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-santana-guilherme-6686a3241/)
