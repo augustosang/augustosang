@@ -31,5 +31,5 @@ Tenho experiência com as seguintes tecnologias:
 - GitHub
 - ReactJs
 - NodeJs
-- Bancos: SQL, MongoDB
+- Bancos: SQL, MongoDB </br>
 Se divirtam, compartilheme e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
