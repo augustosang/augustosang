@@ -26,11 +26,10 @@ Hoje tenho 18 anos e estudo tanto o desenvolvimento front-end quanto o back-end 
 Tenho experiência com as seguintes tecnologias:
 - HTML
 - CSS
-- JavaScript 
+- JavaScript e Typescript
 - Git
 - GitHub
 - ReactJs
--Typescript 
 - NodeJs
 - Bancos: SQL, MongoDB
 Se divirtam, compartilheme e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
