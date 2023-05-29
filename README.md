@@ -20,8 +20,17 @@
 </div><br/>
 
 ### 👨🏻‍💻Um pouco obre mim:
-Amante da tecnologia desde cedo, conheci a programação aos 16 anos. <br/>
-Hoje tenho 17 anos  e estudo desenvolvimento front-end onde espero me desenvolver até <br/>
-me tormar um fullstack. Espero que meu perfil seja útil e produtivo dentro da comunidade, <br/>
-compartihando meus projetos e colaborando nos projetos de outras pessoas! <br/>
+Sou um amante da tecnologia desde cedo, e conheci a programação aos 15 anos.
+Hoje tenho 18 anos e estudo tanto o desenvolvimento front-end quanto o back-end onde espero me desenvolver até me tornar um fullstack muito experiente. Estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
+
+Tenho experiência com as seguintes tecnologias:
+- HTML
+- CSS
+- JavaScript 
+- Git
+- GitHub
+- ReactJs
+-Typescript 
+- NodeJs
+- Bancos: SQL, MongoDB
 Se divirtam, compartilheme e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
