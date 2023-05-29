@@ -33,4 +33,4 @@ Tenho experiência com as seguintes tecnologias:
 - NodeJs
 - Bancos: SQL, MongoDB </br>
 </br>
-Se divirtam, compartilheme e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
+Se divirtam, compartilhem e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
