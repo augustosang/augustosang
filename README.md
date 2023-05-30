@@ -19,7 +19,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### 👨🏻‍💻Um pouco obre mim:
+### 👨🏻‍💻 Um pouco obre mim:
 Sou um amante da tecnologia desde cedo, e conheci a programação aos 15 anos.
 Hoje tenho 18 anos e estudo tanto o desenvolvimento front-end quanto o back-end onde espero me desenvolver até me tornar um fullstack muito experiente. Estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
 
