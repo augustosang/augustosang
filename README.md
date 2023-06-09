@@ -26,7 +26,7 @@ Tenho experiência com as seguintes tecnologias:
 - GitHub
 - ReactJS
 - Typescript 
-- NodeJs
+- NodeJs (NestJS)
 - Bancos: Postgres, MongoDB
 </br>
 Se divirtam, compartilhem e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
