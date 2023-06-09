@@ -21,16 +21,14 @@
 
 ### 👨🏻‍💻 Um pouco obre mim:
 Sou um amante da tecnologia desde cedo, e conheci a programação aos 15 anos.
-Hoje tenho 18 anos e estudo tanto o desenvolvimento front-end quanto o back-end onde espero me desenvolver até me tornar um fullstack muito experiente. Estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
+Hoje tenho 18 anos e estudo tanto o desenvolvimento frontend quanto o backend. Hoje meu foco tem sido o desenvolvimento backend com NodeJS, mas pretendo me tornar um desenvolvedor fullstack. E para isso, estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
 
 Tenho experiência com as seguintes tecnologias:
-- HTML
-- CSS
-- JavaScript e Typescript
 - Git
 - GitHub
-- ReactJs
+- ReactJS
+- Typescript 
 - NodeJs
-- Bancos: SQL, MongoDB </br>
+- Bancos: SQL, MongoDB
 </br>
 Se divirtam, compartilhem e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
