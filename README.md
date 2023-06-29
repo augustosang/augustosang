@@ -13,7 +13,7 @@
 
 <div style="align-itens: center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" widht=80 height=90/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" widht=80 height=90/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" widht=80 height=90/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  widht=100 height=100/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" widht=80 height=90/>
 </div><br/>
