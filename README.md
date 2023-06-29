@@ -11,24 +11,25 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht=80 height=90/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" widht=80 height=90//>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" widht=80 height=90/>
+<div style="align-itens: center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" widht=80 height=90/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" widht=80 height=90/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  widht=100 height=100/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" widht=80 height=90/>
 </div><br/>
 
 ### 👨🏻‍💻 Um pouco sobre mim:
-Sou um amante da tecnologia desde cedo, e conheci a programação aos 15 anos.
-Hoje tenho 18 anos e estudo tanto o desenvolvimento frontend quanto o backend. Hoje meu foco tem sido o desenvolvimento backend com NodeJS (atualmente aprendendo Java), mas pretendo me tornar um desenvolvedor fullstack. E para isso, estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
+Desenvolvo softwares desde 2020. Hoje meu foco tem sido o desenvolvimento backend usando Java, <br/>
+mas pretendo me tornar um desenvolvedor fullstack. E para isso, estudo através de cursos online, <br/>
+por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
 
-Tenho experiência com as seguintes tecnologias:
-- Git
-- GitHub
-- ReactJS
-- Typescript 
-- NodeJs (NestJS)
-- Java
-- Bancos: Postgres, MongoDB
+Tenho experiência com as seguintes técnologias:
+
+ - Git
+ - GitHub
+ - Typescript
+ - NodeJs
+ - Java / Kotlin
+ - Bancos: Postgres, MongoDB
 </br>
 Se divirtam, compartilhem e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
