@@ -12,13 +12,12 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="align-itens: center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" widht=80 height=90/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  widht=100 height=100/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" widht=80 height=90/>
 </div><br/>
 
 ### 👨🏻‍💻 Um pouco sobre mim:
-Desenvolvo softwares desde 2020. Hoje meu foco tem sido o desenvolvimento backend usando Java, <br/>
+Desenvolvo softwares desde 2020. Hoje meu foco tem sido o desenvolvimento backend usando Java e NodeJs, <br/>
 mas pretendo me tornar um desenvolvedor fullstack. E para isso, estudo através de cursos online, <br/>
 por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
 
@@ -28,7 +27,7 @@ Tenho experiência com as seguintes técnologias:
  - GitHub
  - Typescript
  - NodeJs
- - Java / Kotlin
+ - Java
  - Bancos: Postgres, MongoDB
 </br>
 Se divirtam, compartilhem e contribuam nos projetos por aqui! Para entrar em contato, minhas redes sociais estão logo acima👆
