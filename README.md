@@ -18,8 +18,7 @@
 
 ### 👨🏻‍💻 Um pouco sobre mim:
 Desenvolvo softwares desde 2020. Hoje meu foco tem sido o desenvolvimento backend usando Java e NodeJs.<br/>
-Para isso, estudo através de cursos online, <br/>
-por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
+Para isso, estudo através de cursos online, por onde obtenho conhecimento de diversas tecnologias para colocá-las em prática.
 
 Tenho experiência com as seguintes técnologias:
 
