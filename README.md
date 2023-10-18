@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-santana-guilherme-6686a3241/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AugustooSant)
 
-![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustooW5&show_icons=true&theme=dracula&count_private=true)
+![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=augustosang&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
