@@ -24,9 +24,9 @@ Tenho experiência com as seguintes técnologias:
 
  - Git
  - GitHub
- - Typescript
+ - JavaScript
  - NodeJs
- - Java
+ - Java/SpringBot
  - ReactJs
  - Bancos: Postgres, MongoDB
 </br>
