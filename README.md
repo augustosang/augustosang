@@ -5,7 +5,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/augusto-santana-guilherme-6686a3241" target="_blank"><img src="assets/social-linkedin.svg" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://x.com/augustoowz_" target="_blank"><img src="assets/social-x.svg" /></a>
+<a href="https://bsky.app/profile/augustosang.bsky.social" target="_blank"><img src="assets/social-bluesky.svg" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
